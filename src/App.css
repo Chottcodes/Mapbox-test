@@ -1,0 +1,8 @@
+#root {
+  width:100%;
+  background-color: aqua;
+}
+.map-container {
+  width: 100%;
+  height: 500px; /* Set an explicit height */
+}
